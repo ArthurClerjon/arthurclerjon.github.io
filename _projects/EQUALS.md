@@ -1,7 +1,7 @@
 ---
 layout: page
-title: EQUALS
-description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
+title: ""
+description: "d"
 img: assets/img/EQUALS/logo_EQUALS.png
 importance: 2
 category: Funded projects
