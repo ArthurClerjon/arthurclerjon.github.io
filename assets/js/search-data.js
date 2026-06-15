@@ -106,9 +106,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-equals",
-          title: 'EQUALS',
-          description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World",
+            },},{id: "projects-",
+          title: '',
+          description: "d",
           section: "Projects",handler: () => {
               window.location.href = "/projects/equals";
             },},{id: "projects-power-system-flexibility",
