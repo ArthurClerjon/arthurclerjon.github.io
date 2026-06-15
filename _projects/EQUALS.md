@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-description: "d"
+description: ""
 img: assets/img/EQUALS/logo_EQUALS.png
 importance: 2
 category: Funded projects
