@@ -1,19 +1,17 @@
 ---
-layout: none
+layout: page
+title: EQUALS
+description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
+img: assets/img/EQUALS/logo_EQUALS.png
+importance: 2
+category: Funded projects
 permalink: /projects/equals
+redirect_to: https://arthurclerjon.github.io/equals/
 ---
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://arthurclerjon.github.io/equals/">
-    <link rel="canonical" href="https://arthurclerjon.github.io/equals/">
-  </head>
-  <body>
-    <p>Redirecting to <a href="https://arthurclerjon.github.io/equals/">EQUALS project website</a>...</p>
-  </body>
-</html>
 
+<meta http-equiv="refresh" content="0; url=https://arthurclerjon.github.io/equals/">
 
+This page has moved to the [EQUALS project website](https://arthurclerjon.github.io/equals/).
 <!-- ---
 layout: page
 title: ""
