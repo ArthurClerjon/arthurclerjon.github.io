@@ -1,4 +1,20 @@
 ---
+layout: none
+permalink: /projects/equals
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://arthurclerjon.github.io/equals/">
+    <link rel="canonical" href="https://arthurclerjon.github.io/equals/">
+  </head>
+  <body>
+    <p>Redirecting to <a href="https://arthurclerjon.github.io/equals/">EQUALS project website</a>...</p>
+  </body>
+</html>
+
+
+<!-- ---
 layout: page
 title: ""
 description: ""
@@ -155,4 +171,4 @@ These earlier studies form the conceptual and methodological basis of the EQUALS
 </ul>
 
 
-*Last updated: February 2026*
+*Last updated: February 2026* -->
