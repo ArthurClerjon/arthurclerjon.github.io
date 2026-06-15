@@ -108,7 +108,7 @@ ninja.data = [{
               window.location.href = "/projects/7_project/";
             },},{id: "projects-",
           title: '',
-          description: "d",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/equals";
             },},{id: "projects-power-system-flexibility",
