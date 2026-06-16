@@ -11,7 +11,8 @@ redirect_to: https://arthurclerjon.github.io/equals/
 
 <meta http-equiv="refresh" content="0; url=https://arthurclerjon.github.io/equals/">
 
-This page has moved to the [EQUALS project website](https://arthurclerjon.github.io/equals/).
+
+This project now has its own website: [EQUALS project site](https://arthurclerjon.github.io/equals/).
 <!-- ---
 layout: page
 title: ""
