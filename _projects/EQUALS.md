@@ -3,7 +3,7 @@ layout: page
 title: ""
 description: ""
 img: assets/img/EQUALS/logo_EQUALS.png
-importance: 2
+importance: 
 category: Funded projects
 permalink: /projects/equals
 redirect_to: https://arthurclerjon.github.io/equals/
