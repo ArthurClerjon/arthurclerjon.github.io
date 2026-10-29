@@ -50,23 +50,28 @@
       description:
         - Theoretical physics, modeling and experiments (PHYTEM).
 
+
 - title: Supervision
   type: time_table
   contents:
+    - title: Postdoctoral Supervision
+      year: "2026–present"
+      description:
+        - "<b>Guillaume NOM</b> (2026–2027, 18 months) – Worldwide hourly electricity demand and renewable generation profiles. Funded by the ANR project <a href='https://arthurclerjon.github.io/equals/'>EQUALS</a>."
     - title: PhD Co-supervision
       year: "2022–present"
       description:
         - "<b>Lukas Hofmann</b> (2022–2025, defended) – Coupling electricity and heat to decarbonize the French energy system. <a href='https://theses.fr/s343655'>Thesis</a> · <a href='https://doi.org/10.1016/j.energy.2025.136436'>Energy, 2025</a> · <a href='https://hal.science/hal-05309907'>ECOS 2025</a> · Preprints: <a href='https://doi.org/10.2139/ssrn.5534904'>SSRN, 2025</a>, <a href='https://doi.org/10.2139/ssrn.5064439'>SSRN, 2024</a>"
         - "<b>Héloïse Parmentier</b> (2023–2026) – EV charging infrastructure for long-distance trips. <a href='https://theses.fr/s372174'>Thesis</a> · <a href='https://cea.hal.science/cea-05386280'>ROADEF 2025</a> · Submitted to Transportation Research (2026)"
         - "<b>Justine Duval</b> (2024–2027) – Equitable global allocation of low-carbon electricity. <a href='https://theses.fr/s399297'>Thesis</a> · <a href='https://cea.hal.science/cea-05141769'>ECOS 2025</a> · Under review (Energy)"
-        - "<b>Marceau Challet</b> (2026–2029) – Environmental and territorial constraints in global power system planning (EQUALS), with E. Santoire."
+        - "<b>Marceau Challet</b> (2026–2029) – Environmental and territorial constraints in global power system planning, with E. Santoire. Funded by the ANR project <a href='https://arthurclerjon.github.io/equals/'>EQUALS</a>."
     - title: Master's Internships
       year: "2023–2026"
       description:
         - "<b>Anne-Geneviève Lemelle</b> (2023) – Thermal storage and heat electrification. <a href='https://doi.org/10.1016/j.egyr.2025.11.091'>Energy Reports, 2025</a>"
         - "<b>Justine Duval</b> (2024) – Global decarbonization scenarios under spatial constraints."
         - "<b>Marceau Challet</b> (2026) – Energy justice in prospective energy models, with Emmanuelle Santoire."
-
+ 
 - title: Teaching (~20 h/yr)
   type: time_table
   contents:
