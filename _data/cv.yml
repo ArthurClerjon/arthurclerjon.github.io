@@ -4,137 +4,107 @@
     - name: Full Name
       value: Arthur Clerjon
     - name: Position
-      value: Permanent Researcher, CEA
-    - name: Location
-      value: Grenoble, France
+      value: Permanent Researcher, CEA Liten, Grenoble
+    - name: Field
+      value: Energy system modeling and prospective analysis
     - name: Languages
-      value: French (mother tongue), English (fluent), Spanish (reading and speaking).
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Energy Systems Modeling
-      institution: CEA Liten / Université Grenoble Alpes, France
-      year: "2018–2021"
-      description:
-        - Analyzed the impact of variable renewable energy on the French power system.
-        - Focused on electricity storage and sector coupling with heating and fuels.
-        - Supervised by Yves Bréchet and Fabien Perdu.
-    - title: Engineering Degree (MSc level)
-      institution: Mines ParisTech & ENS Cachan (Double Degree)
-      year: "2016–2017"
-      description:
-        - Specialization in geosciences and energy systems.
-    - title: BSc & MSc in Theoretical Physics
-      institution: École Normale Supérieure de Cachan
-      year: "2012–2015"
-      description:
-        - Physics, modeling, and experimentation (PHYTEM curriculum).
-    - title: Classes préparatoires (PCSI–PSI*)
-      institution: Lycée Berthollet
-      year: "2009–2012"
-      description:
-        - Advanced studies in physics, mathematics, and engineering sciences.
+      value: French (native), English (fluent), Spanish (conversational)
 
 - title: Experience
   type: time_table
   contents:
     - title: Permanent Researcher
-      institution: CEA I-Tésé, Grenoble, France
-      year: "2021–present"
+      institution: CEA Liten – Institute for low-carbon energy R&D, Grenoble
+      year: "2025–present"
       description:
-        - Energy system modeling and optimization.
-        - Flexibility of power systems and heating decarbonization.
-        - Battery integration and transport decarbonization strategies.
-    - title: PhD Candidate
-      institution: CEA Liten, Grenoble, France
+        - PI of the ANR project EQUALS – global power system planning within planetary boundaries and social floors.
+        - Transportation decarbonization.
+    - title: Permanent Researcher
+      institution: CEA I-Tésé – Institute for techno-economics of energy systems, Grenoble
+      year: "2021–2025"
+      description:
+        - Heat and mobility decarbonization, global prospective modeling (TIMES), nuclear fuel resources.
+    - title: Research Internships
+      institution: CEA Liten · NASA/JPL (USA) · ISTerre · ENS Ulm
+      year: "2013–2017"
+      description:
+        - Electricity storage (2017) · Convective clouds (2015) · Seismic waves (2014) · Tibetan lithosphere (2013).
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Energy Systems Modeling
+      institution: Université Grenoble Alpes / CEA Liten
       year: "2018–2021"
       description:
-        - Modeled the integration of intermittent renewables into the French power system.
-        - Analyzed storage–heat–fuel synergies.
-    - title: Research Intern
-      institution: Jet Propulsion Laboratory, Pasadena, CA, USA
-      year: "2015"
+        - "Intermittent renewables in the French power system – electricity storage and complementarity with heat. <a href='https://theses.hal.science/tel-03230033'>Thesis</a>"
+        - "Advisor: Yves Bréchet · Supervisor: Fabien Perdu"
+    - title: Engineering Degree (Ingénieur Civil)
+      institution: Mines ParisTech – double degree with ENS Cachan
+      year: "2016–2017"
       description:
-        - Developed models of shallow convective cloud dynamics.
-    - title: Research Intern
-      institution: ISTerre, Grenoble, France
-      year: "2014"
+        - Geosciences and energy.
+    - title: Licence & Master in Physics
+      institution: École Normale Supérieure de Cachan
+      year: "2012–2015"
       description:
-        - Investigated forest influences on seismic wave propagation.
-    - title: Research Intern
-      institution: ENS Ulm, Paris, France
-      year: "2013"
-      description:
-        - Modeled lithospheric thickening at the margins of the Tibetan Plateau.
+        - Theoretical physics, modeling and experiments (PHYTEM).
 
 - title: Supervision
   type: time_table
   contents:
-    - title: PhD Supervision (Co-supervisor)
+    - title: PhD Co-supervision
       year: "2022–present"
       description:
-        - "<b>Lukas Hofmann</b> (2022–2025)<br><i>Coupling electricity and heating demand for decarbonizing the French power system.</i><br><a href='https://theses.fr/s343655'>Subject description</a><br>Related publication: <a href='https://www.sciencedirect.com/science/article/pii/S036054422502078X?via%3Dihub'>Energy, 2025</a><br>Related preprint: <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064439'>SSRN, 2024</a>"
-        - "<b>Héloïse Parmentier</b> (2023–2026)<br><i>Design and optimization of charging infrastructure for electric vehicles under spatial and temporal constraints.</i><br><a href='https://theses.fr/s372174'>Subject description</a>"
-        - "<b>Justine Duval</b> (2024–2027)<br><i>Equitable allocation of global low-carbon electricity sources under climate and geopolitical constraints.</i><br><a href='https://theses.fr/s399297'>Subject description</a>"
-
-    - title: Master’s Supervision
-      year: "2023–2024"
+        - "<b>Lukas Hofmann</b> (2022–2025, defended) – Coupling electricity and heat to decarbonize the French energy system. <a href='https://theses.fr/s343655'>Thesis</a> · <a href='https://doi.org/10.1016/j.energy.2025.136436'>Energy, 2025</a> · <a href='https://hal.science/hal-05309907'>ECOS 2025</a> · Preprints: <a href='https://doi.org/10.2139/ssrn.5534904'>SSRN, 2025</a>, <a href='https://doi.org/10.2139/ssrn.5064439'>SSRN, 2024</a>"
+        - "<b>Héloïse Parmentier</b> (2023–2026) – EV charging infrastructure for long-distance trips. <a href='https://theses.fr/s372174'>Thesis</a> · <a href='https://cea.hal.science/cea-05386280'>ROADEF 2025</a> · Submitted to Transportation Research (2026)"
+        - "<b>Justine Duval</b> (2024–2027) – Equitable global allocation of low-carbon electricity. <a href='https://theses.fr/s399297'>Thesis</a> · <a href='https://cea.hal.science/cea-05141769'>ECOS 2025</a> · Under review (Energy)"
+        - "<b>Marceau Challet</b> (2026–2029) – Environmental and territorial constraints in global power system planning (EQUALS), with E. Santoire."
+    - title: Master's Internships
+      year: "2023–2026"
       description:
-        - "<b>Anne-Geneviève Lemelle</b> (Internship – 2023)<br><i>Thermal storage for renewable integration under future climate conditions.</i><br>Related preprint: <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260828'>SSRN, 2024</a>"
-        - "<b>Justine Duval</b> (Internship – 2024)<br><i>Scenario development for global decarbonization under spatial constraints.</i>"
+        - "<b>Anne-Geneviève Lemelle</b> (2023) – Thermal storage and heat electrification. <a href='https://doi.org/10.1016/j.egyr.2025.11.091'>Energy Reports, 2025</a>"
+        - "<b>Justine Duval</b> (2024) – Global decarbonization scenarios under spatial constraints."
+        - "<b>Marceau Challet</b> (2026) – Energy justice in prospective energy models, with Emmanuelle Santoire."
 
-- title: Teaching
+- title: Teaching (~20 h/yr)
   type: time_table
   contents:
-    - title: Nuclear Energy Economics (6h/year)
+    - title: Nuclear Energy Economics (6 h/yr)
       institution: Master 2 EEDD, GAEL, Université Grenoble Alpes
       year: "2023–present"
-    - title: Project Supervision
+    - title: Student Project Supervision
       institution: PTGreen Graduate School & Mines Paris
       year: "2023–present"
-    - title: Power System Flexibility (French Case Study)
-      institution: École Énergie Recherche, Roscoff
+    - title: Power System Flexibility – French Case Study
+      institution: École Énergie Recherche (doctoral school), Roscoff
       year: "2024"
-    - title: Energy Storage (4h/yr)
+    - title: Energy Storage (4 h/yr)
       institution: Master 2 MaNuEn, Phelma
       year: "2018–2020"
-    - title: Assistant in Physics
+    - title: Physics Teaching Assistant
       institution: Classes préparatoires
       year: "2013–2015"
 
-- title: Technical Skills
-  type: list
-  contents:
-    - Python, MATLAB, Fortran
-    - LaTeX, SolidWorks
-    - Adobe Photoshop, Illustrator
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Energy System Modeling
-      items:
-        - Integration of variable renewables.
-        - Electricity and thermal storage.
-    - title: Global Energy Transitions
-      items:
-        - Climate and territorial constraints.
-        - Equity in decarbonization pathways.
-
-- title: Projects
+- title: Funded Projects
   type: time_table
   contents:
-    - title: EQUALS (ANR AAPG 2025)
-      year: "2024"
+    - title: EQUALS – PI
+      institution: ANR JCJC (AAPG 2025), €300k
+      year: "2026–2029"
       description:
-        - Optimizing global low-carbon electricity allocation under climate, economic, and spatial constraints.
-    - title: Cycling Expedition – Peruvian Andes
-      year: "2015"
-      description:
-        - 8-month solo cycling journey across the Cordillera Blanca.
+        - Equitable allocation of low-carbon electricity sources in a changing and resource-limited world.
 
-- title: Other Interests
+- title: Research Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Climbing, paragliding.
+    - Power system flexibility – variable renewables, electricity and thermal storage
+    - Electrification of heat and mobility
+    - Global energy modeling within planetary boundaries and social floors – raw materials, energy justice
+
+- title: Outreach & Community
+  type: list
+  contents:
+    - "Science outreach article: <a href='https://arthurclerjon.github.io/projects/energie_france/'>Les usages de l'énergie en France</a> (CEA I-Tésé, 2022–2023)"
+    - Co-organizer of energy foresight seminars in Grenoble (2023, 2025) and of the public event Quizz Net Before (Paris)
+    - Open science – open-source code, open-access publishing, OpenMod community since 2020
