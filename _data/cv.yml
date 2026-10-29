@@ -50,20 +50,19 @@
       description:
         - Theoretical physics, modeling and experiments (PHYTEM).
 
-
 - title: Supervision
   type: time_table
   contents:
     - title: Postdoctoral Supervision
       year: "2026–present"
       description:
-        - "<b>Guillaume NOM</b> (2026–2027, 18 months) – Worldwide hourly electricity demand and renewable generation profiles. Funded by the ANR project <a href='https://arthurclerjon.github.io/equals/'>EQUALS</a>."
+        - "<b>Guillaume Koechelin</b> (Sept. 2026 – Feb. 2028, 18 months) – Worldwide hourly electricity demand and renewable generation profiles. Funded by the ANR project <a href='https://arthurclerjon.github.io/equals/'>EQUALS</a>."
     - title: PhD Co-supervision
       year: "2022–present"
       description:
         - "<b>Lukas Hofmann</b> (2022–2025, defended) – Coupling electricity and heat to decarbonize the French energy system. <a href='https://theses.fr/s343655'>Thesis</a> · <a href='https://doi.org/10.1016/j.energy.2025.136436'>Energy, 2025</a> · <a href='https://hal.science/hal-05309907'>ECOS 2025</a> · Preprints: <a href='https://doi.org/10.2139/ssrn.5534904'>SSRN, 2025</a>, <a href='https://doi.org/10.2139/ssrn.5064439'>SSRN, 2024</a>"
         - "<b>Héloïse Parmentier</b> (2023–2026) – EV charging infrastructure for long-distance trips. <a href='https://theses.fr/s372174'>Thesis</a> · <a href='https://cea.hal.science/cea-05386280'>ROADEF 2025</a> · Submitted to Transportation Research (2026)"
-        - "<b>Justine Duval</b> (2024–2027) – Equitable global allocation of low-carbon electricity. <a href='https://theses.fr/s399297'>Thesis</a> · <a href='https://cea.hal.science/cea-05141769'>ECOS 2025</a> · Under review (Energy)"
+        - "<b>Justine Duval</b> (2024–2027) – Equitable global allocation of low-carbon electricity. <a href='https://theses.fr/s399297'>Thesis</a> · <a href='https://cea.hal.science/cea-05141769'>ECOS 2025</a> · Preprint: <a href='https://hal.science/hal-05746248'>HAL</a>"
         - "<b>Marceau Challet</b> (2026–2029) – Environmental and territorial constraints in global power system planning, with E. Santoire. Funded by the ANR project <a href='https://arthurclerjon.github.io/equals/'>EQUALS</a>."
     - title: Master's Internships
       year: "2023–2026"
@@ -71,13 +70,20 @@
         - "<b>Anne-Geneviève Lemelle</b> (2023) – Thermal storage and heat electrification. <a href='https://doi.org/10.1016/j.egyr.2025.11.091'>Energy Reports, 2025</a>"
         - "<b>Justine Duval</b> (2024) – Global decarbonization scenarios under spatial constraints."
         - "<b>Marceau Challet</b> (2026) – Energy justice in prospective energy models, with Emmanuelle Santoire."
- 
+
 - title: Teaching (~20 h/yr)
   type: time_table
   contents:
+    - title: "Towards a Just and Sustainable Transition: Energy Systems within Limits (2 h)"
+      institution: Bachelor, École polytechnique
+      year: "2026"
+      description:
+        - "Hands-on session with the optimization model <a href='https://arthurclerjon.github.io/equals/blog/2026/Cairn-wise_released/'>Cairn-Wise</a>."
     - title: Nuclear Energy Economics (6 h/yr)
       institution: Master 2 EEDD, GAEL, Université Grenoble Alpes
       year: "2023–present"
+    - title: Energy & Climate (lectures)
+      institution: Master, PTGreen Graduate School, Grenoble
     - title: Student Project Supervision
       institution: PTGreen Graduate School & Mines Paris
       year: "2023–present"
@@ -87,16 +93,21 @@
     - title: Energy Storage (4 h/yr)
       institution: Master 2 MaNuEn, Phelma
       year: "2018–2020"
-    - title: Physics Teaching Assistant
-      institution: Classes préparatoires
-      year: "2013–2015"
+    - title: Student Project Supervision
+      institution: Phelma (Grenoble INP)
+      year: "2018–2019"
+      description:
+        - Environmental impact of batteries for the energy transition.
+    - title: Physics Teaching Assistant (PCSI)
+      institution: Lycée Lakanal & Lycée Buffon (Paris) · CPP – La Prépa des INP (Grenoble)
+      year: "2013–2020"
 
 - title: Funded Projects
   type: time_table
   contents:
     - title: EQUALS – PI
       institution: ANR JCJC (AAPG 2025), €300k
-      year: "2026–2030"
+      year: "2026–2029"
       description:
         - Equitable allocation of low-carbon electricity sources in a changing and resource-limited world.
 
@@ -112,4 +123,4 @@
   contents:
     - "Science outreach article: <a href='https://arthurclerjon.github.io/projects/energie_france/'>Les usages de l'énergie en France</a> (CEA I-Tésé, 2022–2023)"
     - Co-organizer of energy foresight seminars in Grenoble (2023, 2025) and of the public event Quizz Net Before (Paris)
-    - Open science – open-source code, open-access publishing, OpenMod community since 2020
+    - Open science – open-source code, open-access publishing, OpenMod community since 2020.
